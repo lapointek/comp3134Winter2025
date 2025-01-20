@@ -1,0 +1,73 @@
+nmap google.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-01-20 01:48 UTC
+Nmap scan report for google.com (172.217.0.174)
+Host is up (0.0091s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4009:80a::200e
+rDNS record for 172.217.0.174: ord38s42-in-f14.1e100.net
+Not shown: 997 filtered tcp ports (no-response), 1 filtered tcp ports (net-unreach)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.46 seconds
+
+---------------------
+nmap -p 443 google.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-01-20 01:49 UTC
+Nmap scan report for google.com (172.217.0.174)
+Host is up (0.0093s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4009:80a::200e
+rDNS record for 172.217.0.174: yyz08s10-in-f174.1e100.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+---------------------
+nmap -p 80-100 google.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-01-20 01:51 UTC
+Nmap scan report for google.com (142.250.190.78)
+Host is up (0.0095s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4009:803::200e
+rDNS record for 142.250.190.78: ord37s34-in-f14.1e100.net
+
+PORT    STATE    SERVICE
+80/tcp  open     http
+81/tcp  filtered hosts2-ns
+82/tcp  filtered xfer
+83/tcp  filtered mit-ml-dev
+84/tcp  filtered ctf
+85/tcp  filtered mit-ml-dev
+86/tcp  filtered mfcobol
+87/tcp  filtered priv-term-l
+88/tcp  filtered kerberos-sec
+89/tcp  filtered su-mit-tg
+90/tcp  filtered dnsix
+91/tcp  filtered mit-dov
+92/tcp  filtered npp
+93/tcp  filtered dcp
+94/tcp  filtered objcall
+95/tcp  filtered supdup
+96/tcp  filtered dixie
+97/tcp  filtered swift-rvf
+98/tcp  filtered linuxconf
+99/tcp  filtered metagram
+100/tcp filtered newacct
+
+Nmap done: 1 IP address (1 host up) scanned in 1.44 seconds
+
+-----------------------
+nmap -F google.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-01-20 01:51 UTC
+Nmap scan report for google.com (142.250.190.78)
+Host is up (0.0085s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4009:803::200e
+rDNS record for 142.250.190.78: ord37s34-in-f14.1e100.net
+Not shown: 97 filtered tcp ports (no-response), 1 filtered tcp ports (net-unreach)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.85 seconds
+

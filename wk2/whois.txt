@@ -1,0 +1,508 @@
+GOOGLE.COM
+
+ Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.GOOGLE.COM
+   Name Server: NS2.GOOGLE.COM
+   Name Server: NS3.GOOGLE.COM
+   Name Server: NS4.GOOGLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-08-02T02:17:33+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns3.google.com
+Name Server: ns1.google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+
+----------------------------------
+OPETH.COM
+
+   Domain Name: OPETH.COM
+   Registry Domain ID: 6597935_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2022-12-15T15:57:21Z
+   Creation Date: 1999-05-19T01:15:01Z
+   Registry Expiry Date: 2027-05-19T01:14:31Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.LOOPIAGROUP.COM
+   Name Server: NS2.LOOPIAGROUP.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-01-20T00:53:17Z <<<
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: OPETH.COM
+Registry Domain ID: 6597935_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2022-05-20T11:44:38Z
+Creation Date: 1999-05-19T01:15:01Z
+Registrar Registration Expiration Date: 2027-05-19T01:14:31Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: PERFECT PRIVACY, LLC
+Registrant Organization:
+Registrant Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Registrant City: Jacksonville
+Registrant State/Province: FL
+Registrant Postal Code: 32256
+Registrant Country: US
+Registrant Phone: +1.5707088622
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: hw9fd35w3ff@networksolutionsprivateregistration.com
+Registry Admin ID:
+Admin Name: PERFECT PRIVACY, LLC
+Admin Organization:
+Admin Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Admin City: Jacksonville
+Admin State/Province: FL
+Admin Postal Code: 32256
+Admin Country: US
+Admin Phone: +1.5707088622
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: hw9fd35w3ff@networksolutionsprivateregistration.com
+Registry Tech ID:
+Tech Name: PERFECT PRIVACY, LLC
+Tech Organization:
+Tech Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Tech City: Jacksonville
+Tech State/Province: FL
+Tech Postal Code: 32256
+Tech Country: US
+Tech Phone: +1.5707088622
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: am8cx7m53wh@networksolutionsprivateregistration.com
+Name Server: NS1.LOOPIAGROUP.COM
+Name Server: NS2.LOOPIAGROUP.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-20T00:53:29Z <<<
+
+
+-----------------------------------
+YOUTUBE.COM
+
+   Domain Name: YOUTUBE.COM
+   Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-01-14T10:06:34Z
+   Creation Date: 2005-02-15T05:13:12Z
+   Registry Expiry Date: 2026-02-15T05:13:12Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.GOOGLE.COM
+   Name Server: NS2.GOOGLE.COM
+   Name Server: NS3.GOOGLE.COM
+   Name Server: NS4.GOOGLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-01-14T10:06:34+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2026-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+
+--------------------------------
+DUCKDUCKGO.COM
+
+   Domain Name: DUCKDUCKGO.COM
+   Registry Domain ID: 1330407230_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-24T06:18:31Z
+   Creation Date: 2007-11-11T17:24:08Z
+   Registry Expiry Date: 2025-06-23T03:59:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.P05.NSONE.NET
+   Name Server: DNS2.P05.NSONE.NET
+   Name Server: DNS3.P05.NSONE.NET
+   Name Server: DNS4.P05.NSONE.NET
+   Name Server: NS01.QUACK-DNS.COM
+   Name Server: NS02.QUACK-DNS.COM
+   Name Server: NS03.QUACK-DNS.COM
+   Name Server: NS04.QUACK-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-01-20T00:55:23Z <<<
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain name: duckduckgo.com
+Registry Domain ID: 1330407230_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2024-05-24T06:18:31.78Z
+Creation Date: 2007-11-11T17:24:08.00Z
+Registrar Registration Expiration Date: 2025-06-23T03:59:59.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: de8075c2bd82495196c61275cb9215a0.protect@withheldforprivacy.com
+Registry Admin ID:
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: de8075c2bd82495196c61275cb9215a0.protect@withheldforprivacy.com
+Registry Tech ID:
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: de8075c2bd82495196c61275cb9215a0.protect@withheldforprivacy.com
+Name Server: dns1.p05.nsone.net
+Name Server: dns2.p05.nsone.net
+Name Server: dns3.p05.nsone.net
+Name Server: dns4.p05.nsone.net
+Name Server: ns01.quack-dns.com
+Name Server: ns02.quack-dns.com
+Name Server: ns03.quack-dns.com
+Name Server: ns04.quack-dns.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-19T05:50:57.55Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+---------------------------------------
+UDEMY.COM
+
+   Domain Name: UDEMY.COM
+   Registry Domain ID: 1565562579_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.safenames.net
+   Registrar URL: http://www.safenames.net
+   Updated Date: 2023-09-01T10:31:54Z
+   Creation Date: 2009-08-13T20:37:45Z
+   Registry Expiry Date: 2025-08-13T20:37:45Z
+   Registrar: SafeNames Ltd.
+   Registrar IANA ID: 447
+   Registrar Abuse Contact Email: abuse@safenames.net
+   Registrar Abuse Contact Phone: +44.1908200022
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: ANNA.NS.CLOUDFLARE.COM
+   Name Server: PETE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-01-20T00:56:54Z <<<
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: UDEMY.COM
+Registry Domain ID: 1565562579_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2023-09-01T11:31:54Z
+Creation Date: 2009-08-13T20:37:45Z
+Registrar Registration Expiration Date: 2025-08-13T20:37:45Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: abuse@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Data protected, not disclosed
+Registrant Organisation: Udemy Inc.
+Registrant Street: Data protected, not disclosed
+Registrant Street: Data protected, not disclosed
+Registrant City: Data protected, not disclosed
+Registrant State/Province: Data protected, not disclosed
+Registrant Postal Code: Data protected, not disclosed
+Registrant Country: US
+Registrant Phone: Data protected, not disclosed
+Registrant Fax: Data protected, not disclosed
+Registrant Email: daaecbekjkvl@idp.email
+Registry Admin ID: Not Available From Registry
+Admin Name: International Domain Administrator
+Admin Organisation: Safenames Ltd
+Admin Street: Safenames House, Sunrise Parkway
+Admin Street: Linford Wood
+Admin City: Milton Keynes
+Admin State/Province: Bucks
+Admin Postal Code: MK14 6LS
+Admin Country: UK
+Admin Phone: +44.1908200022
+Admin Fax: +44.1908325192
+Admin Email: hostmaster@safenames.net
+Registry Tech ID: Not Available From Registry
+Tech Name: International Domain Tech
+Tech Organisation: Safenames Ltd
+Tech Street: Safenames House, Sunrise Parkway
+Tech Street: Linford Wood
+Tech City: Milton Keynes
+Tech State/Province: Bucks
+Tech Postal Code: MK14 6LS
+Tech Country: UK
+Tech Phone: +44.1908200022
+Tech Fax: +44.1908325192
+Tech Email: hostmaster@safenames.net
+Name Server: anna.ns.cloudflare.com
+Name Server: pete.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2023-09-01T11:31:54Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Safenames - Experts in Global Domain Management and Online Brand Protection
+
+Domain Registration in over 1400 different extensions
+Enterprise Domain Management since 1999
+Mark Protect™ Online Brand Monitoring and Enforcement
+Domain Consulting and Strategy
+Domain Name Acquisition
+Domain Disputes and Recovery
+
+Visit Safenames at www.safenames.net
++1 703 574 5313 in the US/Canada
++44 1908 200022 in Europe
+
+
+----------------------------------------
+Amazon.com
+
+   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-09-29T09:48:15Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2025-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AMZNDNS.CO.UK
+   Name Server: NS1.AMZNDNS.COM
+   Name Server: NS1.AMZNDNS.NET
+   Name Server: NS1.AMZNDNS.ORG
+   Name Server: NS2.AMZNDNS.CO.UK
+   Name Server: NS2.AMZNDNS.COM
+   Name Server: NS2.AMZNDNS.NET
+   Name Server: NS2.AMZNDNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-01-20T00:57:55Z <<<
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-09-29T09:48:15+0000
+Creation Date: 1994-11-01T05:00:00+0000
+Registrar Registration Expiration Date: 2025-10-31T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID:
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext:
+Registrant Fax: +1.2062667010
+Registrant Fax Ext:
+Registrant Email: hostmaster@amazon.com
+Registry Admin ID:
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext:
+Admin Fax: +1.2062667010
+Admin Fax Ext:
+Admin Email: hostmaster@amazon.com
+Registry Tech ID:
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext:
+Tech Fax: +1.2062667010
+Tech Fax Ext:
+Tech Email: hostmaster@amazon.com
+Name Server: ns2.amzndns.net
+Name Server: ns2.amzndns.co.uk
+Name Server: ns1.amzndns.net
+Name Server: ns2.amzndns.org
+Name Server: ns2.amzndns.com
+Name Server: ns1.amzndns.com
+Name Server: ns1.amzndns.org
+Name Server: ns1.amzndns.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-20T00:57:14+0000 <<<
+

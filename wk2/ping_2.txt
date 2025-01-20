@@ -1,0 +1,14 @@
+ip address for AWS instance
+
+ping 18.217.69.3 -w 5
+
+Pinging 18.217.69.3 with 32 bytes of data:
+Reply from 18.217.69.3: bytes=32 time=46ms TTL=55
+Reply from 18.217.69.3: bytes=32 time=52ms TTL=55
+Reply from 18.217.69.3: bytes=32 time=51ms TTL=55
+Reply from 18.217.69.3: bytes=32 time=48ms TTL=55
+
+Ping statistics for 18.217.69.3:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 52ms, Average = 49ms
