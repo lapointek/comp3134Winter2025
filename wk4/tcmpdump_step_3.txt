@@ -1,0 +1,13 @@
+sudo tcpdump -A -i enX0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on enX0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:53:31.063415 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 1742919957:1742919993, ack 3417902764, win 255, length 36
+E..L..@.u.}Jc......+....g.......P...s...M&0...H.ivH2...C.D...y....wD..3.N0..
+21:53:31.063477 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 89:125, ack 36, win 475, length 36
+E..Lk.@.@......+c...........g..9P.......I..........D......C-f.#...d...".s...
+21:53:31.064261 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 125:313, ack 36, win 475, length 188
+E...k.@.@..c...+c..........(g..9P.........3.,...I..\*..aY.,..I..#$R."..9
+W...D^.8~'...+..|.3d..;..
+......."\..lp.^.q.xP'.J.?.>l.".K`z#%.|....'...&#
+.Y.....'m........I}..L
+O..^....e3...D..4..2...'u..+0`d$.o..K..@..U...T........k@

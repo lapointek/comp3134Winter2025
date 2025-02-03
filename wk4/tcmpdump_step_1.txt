@@ -1,0 +1,12 @@
+sudo tcpdump -i enX0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on enX0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:48:30.898776 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 1742880681:1742880717, ack 3417827548, win 252, length 36
+21:48:30.898827 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 89:125, ack 36, win 475, length 36
+21:48:30.899203 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 125:233, ack 36, win 475, length 108
+21:48:30.899276 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 233:269, ack 36, win 475, length 36
+21:48:30.899586 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 269:321, ack 36, win 475, length 52
+21:48:30.899637 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 321:421, ack 36, win 475, length 100
+21:48:30.929519 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [.], ack 89, win 252, length 0
+21:48:30.931482 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 36:72, ack 89, win 252, length 36
+21:48:30.931554 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753:

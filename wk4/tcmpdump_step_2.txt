@@ -1,0 +1,11 @@
+sudo tcpdump -c 5 -i enX0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on enX0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:50:20.580104 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 3417887208:3417887316, ack 1742906001, win 475, length 108
+21:50:20.580177 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 108:144, ack 1, win 475, length 36
+21:50:20.580237 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 144:196, ack 1, win 475, length 52
+21:50:20.580293 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 196:264, ack 1, win 475, length 68
+21:50:20.580350 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 264:332, ack 1, win 475, length 68
+5 packets captured
+20 packets received by filter
+0 packets dropped by kernel

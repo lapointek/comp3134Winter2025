@@ -1,0 +1,5 @@
+sudo tcpdump -w 0001.pcap -i enX0
+tcpdump: listening on enX0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+^C151 packets captured
+152 packets received by filter
+0 packets dropped by kernel

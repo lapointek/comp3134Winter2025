@@ -1,0 +1,10 @@
+sudo tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+21:58:09.643455 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 3428914632:3428914676, ack 1743005933, win 935, length 44
+21:58:09.643540 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 44:96, ack 1, win 935, length 52
+21:58:09.643601 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 96:164, ack 1, win 935, length 68
+21:58:09.643660 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 164:232, ack 1, win 935, length 68
+21:58:09.644375 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 232:268, ack 1, win 935, length 36
+21:58:09.656046 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 1:37, ack 4294967208, win 8188, length 36
+21:58:09.656105 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 268:304, ack 37, win 935, length 36
+21:58:09.675508 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [.], ack 0, win 8188, length 0

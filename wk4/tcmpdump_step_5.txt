@@ -1,0 +1,31 @@
+sudo tcpdump -XX -i enX0
+Flags [P.], seq 7248:7284, ack 217, win 935, length 36
+        0x0000:  0660 780c cccd 0680 5073 45f5 0800 4510  .`x.....PsE...E.
+        0x0010:  004c aba3 4000 4006 ac3b ac1f 182b 63e7  .L..@.@..;...+c.
+        0x0020:  ba8b 0016 ddb1 cc60 19c8 67e3 c31d 5018  .......`..g...P.
+        0x0030:  03a7 e2fb 0000 1c93 44c8 bd3e 5921 7298  ........D..>Y!r.
+        0x0040:  5d07 022c 59e3 e3d7 9db8 92e0 2b7b ec8d  ]..,Y.......+{..
+        0x0050:  b031 2f3a c2e5 e6a2 60cc                 .1/:....`.
+21:56:39.242426 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [.], ack 7248, win 8191, length 0
+        0x0000:  0680 5073 45f5 0660 780c cccd 0800 4500  ..PsE..`x.....E.
+        0x0010:  0028 c124 4000 7506 61ee 63e7 ba8b ac1f  .(.$@.u.a.c.....
+        0x0020:  182b ddb1 0016 67e3 c31d cc60 19c8 5010  .+....g....`..P.
+        0x0030:  1fff be26 0000 44db b446 0000            ...&..D..F..
+21:56:39.257855 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 217:253, ack 7248, win 8191, length 36
+        0x0000:  0680 5073 45f5 0660 780c cccd 0800 4500  ..PsE..`x.....E.
+        0x0010:  004c c125 4000 7506 61c9 63e7 ba8b ac1f  .L.%@.u.a.c.....
+        0x0020:  182b ddb1 0016 67e3 c31d cc60 19c8 5018  .+....g....`..P.
+        0x0030:  1fff 5b76 0000 52e9 bb70 b675 f594 7890  ..[v..R..p.u..x.
+        0x0040:  6e93 0ec8 7bb2 5da2 2862 553a 142d 4c09  n...{.].(bU:.-L.
+        0x0050:  6a96 7ecb b24b 2ab8 34a6                 j.~..K*.4.
+21:56:39.257938 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 7284:7320, ack 253, win 935, length 36
+        0x0000:  0660 780c cccd 0680 5073 45f5 0800 4510  .`x.....PsE...E.
+        0x0010:  004c aba4 4000 4006 ac3a ac1f 182b 63e7  .L..@.@..:...+c.
+        0x0020:  ba8b 0016 ddb1 cc60 19ec 67e3 c341 5018  .......`..g..AP.
+        0x0030:  03a7 e2fb 0000 4e0e eba0 a8f4 7fe2 e687  ......N.........
+        0x0040:  7cb5 5e73 0969 beec bde9 2a6f c542 1169  |.^s.i....*o.B.i
+        0x0050:  4e12 eae3 bd56 e48e 31ec                 N....V..1.
+^C
+23 packets captured
+55 packets received by filter
+0 packets dropped by kernel

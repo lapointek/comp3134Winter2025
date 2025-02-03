@@ -1,0 +1,16 @@
+sudo tcpdump -i enX0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on enX0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:19:05.123709 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 3429078284:3429078392, ack 1743070833, win 935, length 108
+22:19:05.123789 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 108:144, ack 1, win 935, length 36
+22:19:05.123849 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 144:196, ack 1, win 935, length 52
+22:19:05.123924 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 196:264, ack 1, win 935, length 68
+22:19:05.123989 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 264:332, ack 1, win 935, length 68
+22:19:05.124043 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 332:368, ack 1, win 935, length 36
+22:19:05.143017 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 1:37, ack 4294967244, win 8189, length 36
+22:19:05.143110 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.56753: Flags [P.], seq 368:404, ack 37, win 935, length 36
+22:19:05.171021 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [.], ack 108, win 8188, length 0
+22:19:05.172914 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [.], ack 368, win 8187, length 0
+22:19:05.190622 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [.], ack 404, win 8187, length 0
+22:19:05.207792 IP pool-99-231-186-139.cpe.net.cable.rogers.com.56753 > ip-172-31-24-43.us-east-2.compute.internal.ssh: Flags [P.], seq 37:73, ack 404, win 8187, length 36
+22:19:05.207877 IP ip-172-31-24-43.us-east-2.compute.internal.ssh > pool-99-231-186-139.cpe.net.cable.rogers.com.5

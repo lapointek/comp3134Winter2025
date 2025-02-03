@@ -1,0 +1,9 @@
+sudo tcpdump -D
+1.enX0 [Up, Running, Connected]
+2.any (Pseudo-device that captures on all interfaces) [Up, Running]
+3.lo [Up, Running, Loopback]
+4.bluetooth-monitor (Bluetooth Linux Monitor) [Wireless]
+5.nflog (Linux netfilter log (NFLOG) interface) [none]
+6.nfqueue (Linux netfilter queue (NFQUEUE) interface) [none]
+7.dbus-system (D-Bus system bus) [none]
+8.dbus-session (D-Bus session bus) [none]
