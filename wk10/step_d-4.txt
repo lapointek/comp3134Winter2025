@@ -1,0 +1,3 @@
+The URL lists files and directories located two levels above. Allowing the user to access unauthorized file paths without validation.
+
+

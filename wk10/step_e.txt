@@ -1,0 +1,4 @@
+The script stops the usage of .. and . in the path parameter.
+The file_exists() function verify's if the firectory actually exists.
+The realpath() ensures that the path remains within the base directory.
+Checking the presence of . in the parameter the code prevents access to files.
