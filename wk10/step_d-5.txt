@@ -1,0 +1,3 @@
+I see results of a files and directories outside of the intended directory.
+Path information outide html directory is shown.
+Information of file structure could provide insight to launch further attacks.

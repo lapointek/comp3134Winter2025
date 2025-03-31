@@ -1,0 +1,1 @@
+Mitigating the issues by converting all HTML comments into PHP comments. Use generic comments to not disclose sensitive information.
